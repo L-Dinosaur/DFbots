@@ -6,5 +6,5 @@ What is here though:
 The logic for the game bot, includes helper functions and main loop
 #### hp.png
 A sample visual analysis for health point as game proceeds
-#### 3plots.png
+#### 3plot.png
 A sample visual analysis for three different data we care about when design the strategies
